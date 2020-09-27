@@ -108,7 +108,7 @@ Cards - NRG Cards are ERC 721 contracts that hold information about the athlete,
 
 Challenges - The Challenge contract holds information about the streamer, particles, and results of the challenge. Particle predictions are also held in this contract, listing the NRG cards involved. The challenge contracts hold most of the value being passed around inside the Shenanigan app.
 
-### **4.3 Community** 👨‍👩‍👦
+### **4.3 Community** 👨‍👩‍👦 // I really like the community driven aspect of this project
 &nbsp;&nbsp;*| codenamed :: SHE Squad*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shenanigan will require reliable and direct communication to maintain a beneficial, fair, and prosperous app environment.
